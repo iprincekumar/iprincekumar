@@ -1,3 +1,4 @@
+![logo](https://github.com/iprincekumar/iprincekumar/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">⚡ Full Stack Developer | 📊 Data Analytics & AI Enthusiast</h3>
 
