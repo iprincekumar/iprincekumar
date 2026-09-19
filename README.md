@@ -91,7 +91,7 @@ I build **websites and AI automations** that remove manual work, from n8n email 
 
 <h4 align="center">🌐 Web & Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,wordpress,mysql,mongodb,git&theme=dark" alt="Web skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,tailwind,wordpress,mysql,mongodb,git&theme=dark" alt="Web skills" />
 </p>
 
 <h4 align="center">🧠 AI, ML & Data</h4>
