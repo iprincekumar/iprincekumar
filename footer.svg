@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00C6FF">
+        <animate attributeName="stop-color" values="#00C6FF;#7F00FF;#00C6FF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7F00FF">
+        <animate attributeName="stop-color" values="#7F00FF;#00C6FF;#7F00FF" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <path fill="url(#fg)" fill-opacity="0.55" d="M0 50 Q150 20 300 50 T600 50 T900 50 T1200 50 T1500 50 T1800 50 T2100 50 T2400 50 V130 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#fg)" d="M0 75 Q150 50 300 75 T600 75 T900 75 T1200 75 T1500 75 T1800 75 T2100 75 T2400 75 V130 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="112" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" opacity="0.9">Thanks for visiting ✨</text>
+</svg>
