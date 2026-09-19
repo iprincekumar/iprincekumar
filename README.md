@@ -38,11 +38,12 @@ I build **websites and AI automations** that remove manual work, from n8n email 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="26" alt="" /> <a href="https://github.com/iprincekumar/AI-Document-Validation-System">AI Document Validation System</a></h3>
-      <p>Detects fraud in ID cards, invoices and contracts using OCR, NLP and anomaly detection.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/OCR-555555?style=flat-square" />
-      <img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" />
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="26" alt="" /> <a href="https://github.com/iprincekumar/LMS_AI">LMS: Learning Management System</a></h3>
+      <p>Full-stack MERN e-learning platform with Clerk auth, Stripe payments, Cloudinary uploads and progress tracking.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" width="26" alt="" /> <a href="https://github.com/iprincekumar/Video-Testimonial-Tool">Video Testimonial Tool</a></h3>
@@ -53,11 +54,10 @@ I build **websites and AI automations** that remove manual work, from n8n email 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="" /> <a href="https://github.com/iprincekumar/n8n-ai-workflows">n8n AI Workflows</a></h3>
-      <p>AI email automation, a recipe agent and a Gemini-powered webhook assistant.</p>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white" />
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="26" alt="" /> <a href="https://github.com/iprincekumar/BookVault-Pro">BookVault Pro</a></h3>
+      <p>Book library and review app with ratings, filters, reading goals, dark mode and import/export. <a href="https://bookvaultpro.netlify.app">Live demo ↗</a></p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Herb.png" width="26" alt="" /> <a href="https://github.com/iprincekumar/Plant-Disease-Prediction">Plant Disease Prediction</a></h3>
