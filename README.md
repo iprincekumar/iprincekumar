@@ -1,6 +1,6 @@
-<!-- Animated header -->
+<!-- Animated header (header.svg lives in this repo) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=220&section=header&text=Prince%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=AI%20Automation%20%26%20Full-Stack%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="Prince Kumar" width="100%" />
+  <img src="header.svg" alt="Prince Kumar | AI Automation & Full-Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" alt="wave" />, I'm Prince Kumar</h1>
@@ -132,7 +132,7 @@ I build **websites and AI automations** that remove manual work, from n8n email 
   </picture>
 </p>
 
-<!-- Animated footer -->
+<!-- Animated footer (footer.svg lives in this repo) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer" alt="footer" width="100%" />
+  <img src="footer.svg" alt="footer" width="100%" />
 </p>
